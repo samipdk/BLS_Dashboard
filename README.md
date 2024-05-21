@@ -41,5 +41,5 @@ Code Breakdown
 
 # Launch the App :
 Run the code which will launch the app:
-
+![Dashboard](https://github.com/samipdk/BLS_Dashboard/assets/137905918/a3bf811b-5c07-4e5d-b08b-c5d4b9ebb657)
 
