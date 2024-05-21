@@ -31,10 +31,15 @@ The correlation matrix of the economic indicators is computed and visualized usi
 The correlation between National Employment and other statistics is specifically analyzed.
 ![Correlation heat map](https://github.com/samipdk/BLS_Dashboard/assets/137905918/298ab9e3-5a81-45cd-a4b4-94b20e2f2e5c)
 
-# Developing and launching an Interactive Dashboard:
+# Design the App using Dash, Plotly:
 
 A Dash web application is created to provide an interactive interface for exploring the data.
 The dashboard allows users to select a year and view line charts of the Consumer Price Index (CPI) and National Employment data for that year.
 The layout and callbacks in Dash ensure that the visualizations update dynamically based on user input.
 Code Breakdown
 ![App code](https://github.com/samipdk/BLS_Dashboard/assets/137905918/67675357-30ba-4c43-9183-a76708fdfb3d)
+
+# Launch the App :
+Run the code which will launch the app:
+
+
