@@ -16,11 +16,12 @@ The provided code performs the following tasks:
 fetch_bls_data(): This function sends a POST request to the BLS API to fetch time series data for specific economic indicators. It uses a predefined set of series IDs and requests data from 2022 to 2024.
 The response from the API is parsed to extract relevant data points and stored in a pandas DataFrame.
 
-# Data Transformation:
+# Analyzing the data for visualization:
 
 get_custom_name(series_id): This function maps series IDs to human-readable names for easier interpretation of the data.
 The data is pivoted to create a table where each row corresponds to a time period, and each column corresponds to a specific economic indicator.
-Data Visualization:
+
+# Data Visualization:
 
 The correlation matrix of the economic indicators is computed and visualized using a heatmap, helping to identify relationships between different variables.
 The correlation between National Employment and other statistics is specifically analyzed.
